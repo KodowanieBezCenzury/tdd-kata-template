@@ -17,6 +17,7 @@ For further reference, please consider the following sections:
 ## KATA resources
 KATA excercies:
 * [https://kata-log.rocks/tdd](https://kata-log.rocks/tdd)
+* [https://www.michael-whelan.net/code-katas-for-practicing-tdd/](https://www.michael-whelan.net/code-katas-for-practicing-tdd/)
 * [https://github.com/garora/TDD-Katas](https://github.com/garora/TDD-Katas)
 * [http://tddbuddy.com/](http://tddbuddy.com/) 🌶
 * Uncle Bob katas
